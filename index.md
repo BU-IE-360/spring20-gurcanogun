@@ -21,3 +21,6 @@ Accurate forecasts help businesses in reducing waste and understanding the uncer
 
 
 [Related R File](Project.R)
+
+
+[Report](Files/Html/Rapor360proje.htm)
