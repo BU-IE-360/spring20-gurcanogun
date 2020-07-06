@@ -14,8 +14,6 @@ These are provided as explanatory variables. Together, this robust dataset can b
 
 Accurate forecasts help businesses in reducing waste and understanding the uncertainty and its risk implications.
 
-https://github.com/BU-IE-360/spring20-gurcanogun/issues/1#issue-651660474
-
-![alt text](https://ibb.co/Gdhq1Kc)
+![alt text](https://user-images.githubusercontent.com/61253032/86615271-e716a800-bfbc-11ea-8bed-6d2fc826bbf1.jpg)
 
 [Related R File](Project.R)
