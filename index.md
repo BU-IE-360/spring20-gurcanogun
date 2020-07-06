@@ -1,4 +1,4 @@
-How many products will Trendyol sell each day? Forecasting the sales quantity of a product for an online retail is a challenging task. 
+  How many products will Trendyol sell each day? Forecasting the sales quantity of a product for an online retail is a challenging task. 
 Forecasting heavily relies on the historical data and modeling skills. 
 In this project, it is expected to develop forecasting methods to predict the next day's sales quantity of the products in Table 1. 
 Many decisions such as pricing, inventory placement and etc. require reliable forecasts and inaccurate business forecasts could result in actual or opportunity losses. 
