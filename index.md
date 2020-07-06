@@ -8,4 +8,6 @@ Accurate forecasts help businesses in reducing waste and understanding the uncer
 
 https://github.com/BU-IE-360/spring20-gurcanogun/issues/1#issue-651660474
 
+![alt text](https://github.com/BU-IE-360/spring20-gurcanogun/issues/1#issue-651660474)
+
 [Related R File](Project.R)
