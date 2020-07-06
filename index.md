@@ -19,6 +19,8 @@ These are provided as explanatory variables. Together, this robust dataset can b
 
 Accurate forecasts help businesses in reducing waste and understanding the uncertainty and its risk implications.
 
+You can see our works if you click on following links.
+
 
 [Related R File](Project.R)
 
